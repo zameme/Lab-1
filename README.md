@@ -5,7 +5,12 @@
 `TODO://` Add app description
 
 ### App Walk-though
-https://imgur.com/gallery/IlPq0G8
+
+
+<img src="https://imgur.com/gallery/IlPq0G8" width=200><br>
+
+
+
 
 ## Required
 - [x] Create New Project in Android Studio

@@ -7,7 +7,7 @@
 ### App Walk-though
 
 
-<img src="https://imgur.com/gallery/IlPq0G8" width=200><br>
+<img src="https://i.imgur.com/u64VXVy.gif" width=200><br>
 
 
 
